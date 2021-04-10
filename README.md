@@ -1,2 +1,1 @@
-# BasicScript
-Basic Scrip Untuk Termux!! 
+git clone https://github.com/MefelemS/BasicScript
